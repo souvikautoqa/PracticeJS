@@ -17,8 +17,8 @@ var name = 'John'; console.log(name)  // Basic variable
 
     console.log(typeof fname);
     console.log(typeof age);
-    console.log (fname + ' -- ' + age + ' is of type '+typeof (fname + age));
+    console.log (fname + ' -- ' + age + ' is of type '+typeof (fname + age)); 
 
     
     // Non primitive data types (Object based)
-    var anotherObject = this; console.log(anotherObject);
+    var anotherObject = this; console.log(typeof anotherObject);
